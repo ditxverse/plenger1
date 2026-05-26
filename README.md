@@ -1,6 +1,6 @@
 # ⚡ DITXVERSE Official Store | Premium Security & Automation Tools
 
-![DITXVERSE Banner](https://files.catbox.moe/bis6q0.png)
+![DITXVERSE Banner](https://files.catbox.moe/noydrq.png)
 
 **DITXVERSE** adalah platform toko online modern untuk berbagai kebutuhan *tools* premium, keamanan siber, otomatisasi, dan *hosting panel*. Proyek ini merupakan front-end website yang interaktif, responsif, dan memiliki sistem transaksi otomatis terintegrasi dengan WhatsApp dan Telegram.
 

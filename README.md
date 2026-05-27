@@ -1,4 +1,9 @@
 <h1 align="center">✨ DITXVERSE - Official Store ✨</h1>
+
+<p align="center">
+  <img src="https://files.catbox.moe/noydrq.png" alt="Logo DITXVERSE" width="150" height="150">
+</p>
+
 <p align="center">
   <i>Premium Security, Automation Tools & Web Development</i>
 </p>

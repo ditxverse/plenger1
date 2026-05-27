@@ -1,95 +1,102 @@
-# ⚡ DITXVERSE Official Store | Premium Security & Automation Tools
+DITXVERSE Official Store
 
-![DITXVERSE Banner](https://files.catbox.moe/noydrq.png)
+DITXVERSE Banner
 
-**DITXVERSE** adalah platform toko online modern untuk berbagai kebutuhan *tools* premium, keamanan siber, otomatisasi, dan *hosting panel*. Proyek ini merupakan front-end website yang interaktif, responsif, dan memiliki sistem transaksi otomatis terintegrasi dengan WhatsApp dan Telegram.
+DITXVERSE adalah platform toko online modern untuk berbagai kebutuhan tools premium, keamanan siber, otomatisasi, dan hosting panel. Proyek ini merupakan front-end website yang interaktif, responsif, dan memiliki sistem transaksi otomatis terintegrasi dengan WhatsApp dan Telegram.
 
----
-
-## ✨ Fitur Utama
-
-- 🛒 **Katalog Produk Digital**:
-  - `SXC Exec` | `Manta'X RAT` | `Pterodactyl Panel` | `Nokos All Countries`
-- 💳 **Sistem Pembayaran Canggih**:
-  - Upload bukti transfer
-  - Generate struk otomatis
-  - Notifikasi real-time ke **WhatsApp** & **Telegram** (Admin)
-- 🖼️ **QRIS Interaktif**:
-  - Dua QRIS statis (bisa di-*zoom* & *save*)
-  - Informasi nomor DANA
-- 🧠 **User Experience (UX) Optimal**:
-  - Filter harga (Termurah/Termahal)
-  - Animasi loading halus
-  - Popup "Splash Screen" (Event/Intro)
-  - Sidebar navigasi responsif
-- 🎨 **Desain Modern**:
-  - Tema gelap (Dark Mode UI)
-  - Background bintang jatuh (animasi CSS)
-  - Efek *Glassmorphism* & *Neon Glow*
+Platform Link
+Website xenopati-vault.web.id
+WhatsApp 6283179811082
+Telegram @king_ditjiedev
+TikTok @dev_destory
 
 ---
 
-## 🚀 Demo & Tautan Langsung
+Fitur Utama
 
-> 🌐 **Akses Website**: [https://xenopati-vault.web.id](https://xenopati-vault.web.id)
+Katalog Produk
 
-> 🤖 **Bot Telegram Admin**: [@king_ditjiedev](https://t.me/king_ditjiedev)
+Produk Deskripsi
+SXC Exec Tools exploit & delay system dengan stabilitas tinggi
+Manta'X Complete RAT + DDoS + tools, full gacor
+Panel Pterodactyl Premium hosting panel untuk bot & aplikasi
+Nokos All Negara Tools untuk prank, bisnis, & sender (7K-30K)
 
----
+Sistem Pembayaran
 
-## 🛠️ Teknologi yang Digunakan
+· Upload bukti transfer langsung
+· Generate struk otomatis
+· Notifikasi real-time ke WhatsApp & Telegram
+· Dua QRIS statis (bisa zoom & save)
+· Tiket diskon 25% (kode: DTX8634EID)
 
-Proyek ini dibangun tanpa *framework* berat, murni menggunakan teknologi dasar web yang kuat:
+Tampilan & User Experience
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - Struktur halaman.
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - Desain & Animasi (Flexbox, Grid, Keyframes).
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Logika interaktif (transaksi, filter, modal).
-- **[FontAwesome](https://fontawesome.com/)** - Ikon-ikon keren.
-- **[Google Fonts](https://fonts.google.com/)** - Tipografi modern (`Space Grotesk`).
-- **LocalStorage API** - Menyimpan riwayat pengunjung (splash screen).
+· Tema gelap premium (Dark Mode UI)
+· Background bintang jatuh animasi CSS
+· Efek Glassmorphism & Neon Glow
+· Responsif di semua perangkat (HP, tablet, desktop)
+· Filter harga (termurah ke termahal)
 
----
+Fitur Lainnya
 
-## 📥 Instalasi & Penggunaan (Lokal)
-
-Jika ingin menjalankan proyek ini di komputer sendiri:
-
-1.  **Clone repositori ini**
-    ```bash
-    git clone https://github.com/username/ditxverse-store.git
-    ```
-2.  **Buka folder proyek**
-    ```bash
-    cd ditxverse-store
-    ```
-3.  **Jalankan file `index.html`** (cukup double-click atau buka dengan Live Server di VS Code).
-
-> ⚠️ **Catatan**: Fitur pengiriman pesan ke WhatsApp dan Telegram mungkin memerlukan konfigurasi ulang token dan nomor telepon di file `index.html`.
+· Panduan order interaktif
+· Tips & trik penggunaan produk
+· Video intro portofolio (16:9)
+· Form request produk otomatis ke Telegram
+· Profil anonim DITXVERSE
 
 ---
 
-## 🎯 Kontribusi
+Teknologi
 
-Proyek ini adalah proyek personal. Namun, jika Anda memiliki ide atau saran untuk fitur baru, silakan buka *issue* di repositori GitHub ini.
-
----
-
-## 📞 Kontak & Dukungan
-
-- **Admin WhatsApp**: [6283179811082](https://wa.me/6283179811082)
-- **Channel WhatsApp**: [DITXVERSE Channel](https://whatsapp.com/channel/0029Vb8OfjXIyPtXW6kEb027)
-- **Telegram**: [@king_ditjiedev](https://t.me/king_ditjiedev)
-- **TikTok**: [@dev_destory](https://tiktok.com/@dev_destory)
+Teknologi Keterangan
+HTML5 Struktur halaman
+CSS3 Desain & animasi
+JavaScript Logika interaktif
+FontAwesome Ikon
+Google Fonts Tipografi
+LocalStorage API Penyimpanan lokal
+Telegram Bot API Notifikasi
 
 ---
 
-## ⚖️ Lisensi
+Instalasi
 
-Dibuat oleh **ASTHA & DITXVERSE**.  
-Dibantu oleh AI: **DeepSeek** ✕ **ChatGPT**.
+```bash
+git clone https://github.com/ditxverse/ditxverse-store.git
+cd ditxverse-store
+# Buka file index.html di browser
+```
 
 ---
 
-<div align="center">
-  <sub>⚡ DITXVERSE - Be Smart Buyer ⚡</sub>
-</div>
+Kontak & Dukungan
+
+Platform Detail
+WhatsApp Admin 6283179811082
+Channel WhatsApp https://whatsapp.com/channel/0029Vb8OfjXIyPtXW6kEb027
+Telegram @king_ditjiedev
+TikTok @dev_destory
+GitHub @ditxverse
+
+---
+
+Statistik
+
+· Total Baris Kode: 2000+ baris
+· Fitur: 25+ fitur
+· Produk: 4 kategori (20+ varian)
+· Integrasi: WhatsApp + Telegram
+
+---
+
+Lisensi
+
+Dibuat oleh ASTHA & DITXVERSE
+Dibantu oleh AI: DeepSeek x ChatGPT
+
+---
+
+```
+DITXVERSE - Be Smart Buyer

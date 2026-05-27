@@ -1,127 +1,79 @@
-DITXVERSE
+<h1 align="center">✨ DITXVERSE - Official Store ✨</h1>
+<p align="center">
+  <i>Premium Security, Automation Tools & Web Development</i>
+</p>
 
-DITXVERSE adalah seorang pengembang web, automation enthusiast, dan creator dari berbagai tools digital. Berbasis di Indonesia, DITXVERSE memilih untuk tetap anonim dan fokus pada karya, bukan nama.
-
----
-
-Banner
-
-https://files.catbox.moe/bis6q0.png
-
----
-
-Tentang Saya
-
-Saya memulai perjalanan di dunia coding sejak 2022. Awalnya hanya iseng, lama-lama ketagihan. Saya belajar dari nol: HTML, CSS, JavaScript, sampai akhirnya bisa membangun website sendiri tanpa bantuan framework berat.
-
-Saya tidak akan memperkenalkan diri dengan nama asli atau foto wajah. Biar orang kenal saya dari karya, bukan dari penampilan.
-
-Saya mulai menjual hasil karya saya sejak Februari 2026. Bukan karena ingin terkenal, tapi karena ingin menunjukkan bahwa orang anonim pun bisa berkarya dan dipercaya.
+<p align="center">
+  <a href="https://xenopati-vault.web.id" target="_blank">
+    <img src="https://img.shields.io/badge/Website-xenopati--vault.web.id-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://wa.me/6283179811082" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-083179811082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.tiktok.com/@dev_destory" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@dev__destory-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
 
 ---
 
-Skill
+### 🚀 Tentang Saya
 
-· HTML & CSS
-· JavaScript
-· PHP
-· Node.js
-· Python
-· Linux Dasar
-· Git & GitHub
+Halo! Saya **DITXVERSE**, pengembang dan pemilik dari **DITXVERSE Official Store**. Saya mulai menekuni dunia pemrograman dan pengembangan situs sejak tahun 2022, dan secara resmi merilis layanan produk digital saya mulai Februari 2026.
+
+Saya fokus pada pembuatan **alat keamanan otomatisasi**, layanan panel hosting, serta pengembangan situs web yang stabil dan berkualitas. Bagi saya, kode bukan sekadar tulisan, tapi seni untuk menciptakan solusi canggih.
+
+> *"Menciptakan teknologi canggih dengan kode sederhana namun berdaya guna tinggi."*
 
 ---
 
-Tools yang Saya Gunakan
+### ⚡ Keahlian & Teknologi
 
-· VS Code
-· Git
-· Kali Linux (dasar)
-· Postman
-· Burp Suite (dasar)
+Saya menguasai dan menggunakan berbagai bahasa pemrograman serta teknologi berikut dalam setiap proyek saya:
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-Timeline Perjalanan
-
-· 2022 - Mulai belajar coding dari nol
-· 2023 - Belajar JavaScript & membuat website pertama (gagal total)
-· 2024 - Mulai paham struktur website & belajar backend (Node.js)
-· 2025 - Belajar Python & otomatisasi
-· Februari 2026 - DITXVERSE resmi launch
-
----
-
-Proyek yang Pernah Dibuat
-
-· DITXVERSE Official Store
-· Bot Telegram untuk auto order
-· Tools OSINT sederhana
-· Sistem notifikasi otomatis (WA & Telegram)
+- **JavaScript**: Bahasa andalan saya. Fleksibel, kuat, dan bisa digunakan untuk segalanya — mulai dari web, bot, server, hingga alat otomatisasi.
+- **Node.js**: Untuk pengembangan sisi server yang cepat dan efisien.
+- **Python**: Solusi terbaik untuk skrip, alat keamanan, dan pemrosesan data.
+- **PHP**: Klasik namun tetap andal untuk pengembangan situs web dinamis dan layanan berbasis web.
+- **HTML**: Fondasi utama dari setiap tampilan antarmuka yang saya buat.
 
 ---
 
-Target ke Depan
+### 🛒 Produk & Layanan Kami
 
-· Membuat tools sendiri (private)
-· Punya server pribadi (VPS)
-· Belajar sistem pembayaran otomatis
-· Buka layanan jasa pembuatan website
+Di **DITXVERSE Official Store**, kami menyediakan produk premium dengan dukungan penuh 24 jam:
 
----
+🔹 **SXC Exec** → Fitur exploit & delay system, sangat stabil dan rutin diperbarui.
+🔹 **Manta'X** → Paket lengkap berisi RAT + DDoS + Tools pendukung, berfungsi maksimal.
+🔹 **Panel Pterodactyl** → Layanan hosting berkualitas tinggi, cocok untuk bot & aplikasi.
+🔹 **Nokos All Negara** → Nomor virtual untuk kebutuhan verifikasi, bisnis, atau hiburan.
 
-Hobi
+✅ **Garansi Permanen** | ✅ **Update Rutin** | ✅ **Support 24 Jam**
 
-· Ngoding (ya jelas)
-· Baca artikel tentang security & teknologi
-· Eksplor tools baru
-· Dengerin musik lo-fi & instrumental
+> Kunjungi katalog lengkap kami di: **https://xenopati-vault.web.id**
 
 ---
 
-Musik Favorit
+### 📞 Hubungi Saya
 
-Lo-fi, instrumental, chill. Cocok buat nemenin ngoding atau santai.
+Ingin bekerja sama, bertanya, atau membeli produk? Jangan ragu untuk menghubungi saya melalui saluran di bawah ini:
 
----
-
-Quote
-
-"Keep learning, keep building, stay anonymous"
-
-"Anonim bukan berarti tidak bertanggung jawab"
+- 🌐 **Website**: [https://xenopati-vault.web.id](https://xenopati-vault.web.id)
+- 📱 **WhatsApp**: [083179811082](https://wa.me/6283179811082)
+- 🎵 **TikTok**: [@dev_destory](https://www.tiktok.com/@dev_destory)
+- 💻 **GitHub**: [github.com/ditxverse](https://github.com/ditxverse)
 
 ---
 
-Kontak & Sosial Media
-
-Platform Link
-Website https://xenopati-vault.web.id
-WhatsApp 6283179811082
-Telegram @king_ditjiedev
-TikTok @dev_destory
-WhatsApp Channel https://whatsapp.com/channel/0029Vb8OfjXIyPtXW6kEb027
-GitHub @ditxverse
-
----
-
-Statistik
-
-Aspek Jumlah
-Tahun Belajar Coding 4 tahun
-Proyek yang Dibuat 5+ proyek
-Tools Dikuasai 8+ tools
-Baris Kode yang Ditulis 2000+ baris (untuk 1 proyek)
-
----
-
-Lisensi
-
-Dibuat oleh ASTHA & DITXVERSE
-Dibantu oleh AI: DeepSeek dan ChatGPT
-
----
-
-```
-DITXVERSE - Keep Learning, Keep Building, Stay Anonymous
-```
+<p align="center">
+  © 2026 DITXVERSE • All Rights Reserved<br>
+  <sub>Dibantu oleh: AI, DeepSeek, & ChatGPT</sub>
+</p>

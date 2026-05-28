@@ -1,7 +1,7 @@
 <h1 align="center"> DITXVERSE - GITHUB </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="80" height="80" style="border-radius: 50%; opacity: 0.8;">
+  <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="1280" height="640" style="border-radius: 50%; opacity: 0.8;">
 </p>
 
 <p align="center">

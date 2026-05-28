@@ -1,7 +1,7 @@
-<h1 align="center">✨ DITXVERSE - Official Store ✨</h1>
+<h1 align="center">DITXVERSE GITHUB</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/noydrq.png" alt="Logo DITXVERSE" width="150" height="150">
+  <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="100" height="100" style="border-radius: 50%; opacity: 0.8;">
 </p>
 
 <p align="center">
@@ -71,10 +71,10 @@ Di **DITXVERSE Official Store**, kami menyediakan produk premium dengan dukungan
 
 Ingin bekerja sama, bertanya, atau membeli produk? Jangan ragu untuk menghubungi saya melalui saluran di bawah ini:
 
-- 🌐 **Website**: [https://xenopati-vault.web.id](https://xenopati-vault.web.id)
-- 📱 **WhatsApp**: [083179811082](https://wa.me/6283179811082)
-- 🎵 **TikTok**: [@dev_destory](https://www.tiktok.com/@dev_destory)
-- 💻 **GitHub**: [github.com/ditxverse](https://github.com/ditxverse)
+-  **Website**: [https://xenopati-vault.web.id](https://xenopati-vault.web.id)
+-  **WhatsApp**: [083179811082](https://wa.me/6283179811082)
+-  **TikTok**: [@dev_destory](https://www.tiktok.com/@dev_destory)
+-  **GitHub**: [github.com/ditxverse](https://github.com/ditxverse)
 
 ---
 

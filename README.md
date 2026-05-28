@@ -50,7 +50,11 @@ Saya menguasai dan menggunakan berbagai bahasa pemrograman serta teknologi berik
 - **PHP**: Klasik namun tetap andal untuk pengembangan situs web dinamis dan layanan berbasis web.
 - **HTML**: Fondasi utama dari setiap tampilan antarmuka yang saya buat.
 
-![Demo Video](https://files.catbox.moe/kcxekv.mp4)
+<p align="center">
+  <a href="https://files.catbox.moe/kcxekv.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20WATCH%20VIDEO-Click%20Here-blue?style=for-the-badge" alt="Watch Video"/>
+  </a>
+</p>
 
 ---
 

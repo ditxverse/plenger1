@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: 900; font-size: 3em; letter-spacing: 3px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); color: #00ff00;">DITXVERSE - GITHUB</h1>
+<h1 align="center" style="font-weight: 900; font-size: 3em; letter-spacing: 3px; background: linear-gradient(45deg, #00ff00, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">DITXVERSE - GITHUB</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="1280" height="640" style="border-radius: 70px; opacity: 0.8;">

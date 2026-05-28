@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/DITXVERSE%20-GITHUB-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="DITXVERSE"/>
-</h1>
+<h1 align="center"><code>DITXVERSE - GITHUB</code></h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="1280" height="640" style="border-radius: 70px; opacity: 0.8;">

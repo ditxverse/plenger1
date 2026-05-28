@@ -52,21 +52,6 @@ Saya menguasai dan menggunakan berbagai bahasa pemrograman serta teknologi berik
 
 ---
 
-### 🛒 Produk & Layanan Kami
-
-Di **DITXVERSE Official Store**, kami menyediakan produk premium dengan dukungan penuh 24 jam:
-
-🔹 **SXC Exec** → Fitur exploit & delay system, sangat stabil dan rutin diperbarui.
-🔹 **Manta'X** → Paket lengkap berisi RAT + DDoS + Tools pendukung, berfungsi maksimal.
-🔹 **Panel Pterodactyl** → Layanan hosting berkualitas tinggi, cocok untuk bot & aplikasi.
-🔹 **Nokos All Negara** → Nomor virtual untuk kebutuhan verifikasi, bisnis, atau hiburan.
-
-✅ **Garansi Permanen** | ✅ **Update Rutin** | ✅ **Support 24 Jam**
-
-> Kunjungi katalog lengkap kami di: **https://xenopati-vault.web.id**
-
----
-
 ### 📞 Hubungi Saya
 
 Ingin bekerja sama, bertanya, atau membeli produk? Jangan ragu untuk menghubungi saya melalui saluran di bawah ini:

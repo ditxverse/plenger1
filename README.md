@@ -49,7 +49,8 @@ Saya menguasai dan menggunakan berbagai bahasa pemrograman serta teknologi berik
 - **Python**: Solusi terbaik untuk skrip, alat keamanan, dan pemrosesan data.
 - **PHP**: Klasik namun tetap andal untuk pengembangan situs web dinamis dan layanan berbasis web.
 - **HTML**: Fondasi utama dari setiap tampilan antarmuka yang saya buat.
-- <p align="center">
+
+  <p align="center">
   <video width="800" controls autoplay muted loop>
     <source src="https://files.catbox.moe/kcxekv.mp4" type="video/mp4">
     Your browser does not support the video tag.

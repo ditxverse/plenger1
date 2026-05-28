@@ -1,7 +1,7 @@
-<h1 align="center">DITXVERSE GITHUB</h1>
+<h1 align="center"> DITXVERSE - GITHUB </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="100" height="100" style="border-radius: 50%; opacity: 0.8;">
+  <img src="https://files.catbox.moe/g1jjwy.png" alt="Logo DITXVERSE" width="80" height="80" style="border-radius: 50%; opacity: 0.8;">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-083179811082-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.tiktok.com/@dev_destory" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@dev__destory-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-@ditxverse-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@ Ingin bekerja sama, bertanya, atau membeli produk? Jangan ragu untuk menghubungi
 
 -  **Website**: [https://xenopati-vault.web.id](https://xenopati-vault.web.id)
 -  **WhatsApp**: [083179811082](https://wa.me/6283179811082)
--  **TikTok**: [@dev_destory](https://www.tiktok.com/@dev_destory)
+-  **TikTok**: [@dev_destory](https://www.tiktok.com/@ditxverse)
 -  **GitHub**: [github.com/ditxverse](https://github.com/ditxverse)
 
 ---
